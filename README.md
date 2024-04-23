@@ -18,7 +18,7 @@ Detailed walkthrough:
 ## Contributors 
 - Adrian : Random forest, Outcomes and Insights
 - Hudzaifah : EDA, Analytic Visualisation
-- Jun Hern: Data Preparation, Outcomes and Insights
+- Jun Hern: Data Preparation, Outcomes and Insights, EDA
 
 ## Problem Defination
 Is there a relationship between gender and their purchasing behavior evident in the Consumer Behavior and Shopping Habits Dataset? Do certain age groups or genders show preferences for specific product categories or shopping channels? Do females have a certain preference in their shopping habits compare to males?
