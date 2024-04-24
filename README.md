@@ -30,6 +30,9 @@ Mainly categorical predictors and categorical response. Hence, we neede to explo
 i) Random Forest
 ii) Classification Tree
 
+Experimented with K-means clsutering. It is under insights.
+
+
 ## Conclusions
 
 - None of the numeric variables had correlation with each other. Their values were all below 0.1 . Hence we needed to focus on categorical variables
